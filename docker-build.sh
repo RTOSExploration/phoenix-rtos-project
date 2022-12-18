@@ -1,6 +1,7 @@
 #!/bin/bash
 
-DOCKER_IMG_NAME=phoenixrtos/build
+#DOCKER_IMG_NAME=phoenixrtos/build
+DOCKER_IMG_NAME=phoenixrtos-wllvm
 DOCKER_USER="$(id -u):$(id -g)"
 
 TMPFS_OVERLAY=()

@@ -49,3 +49,6 @@
 [submodule "phoenix-rtos-doc"]
 	path = phoenix-rtos-doc
 	url = https://github.com/phoenix-rtos/phoenix-rtos-doc
+[submodule "docker/whole-program-llvm"]
+	path = docker/whole-program-llvm
+	url = https://github.com/szsam/whole-program-llvm.git
